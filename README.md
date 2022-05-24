@@ -1,5 +1,5 @@
-### Projeto de front-end Online Store
-
+## Projeto de front-end Online Store
+Projeto desenvolvido no curso da Trybe no modulo de Fundamentos Front-End
 
 # Habilidades desenvolvidas
 
